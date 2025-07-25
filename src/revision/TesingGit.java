@@ -1,9 +1,9 @@
 package revision;
 
-public class Locatorsdemo {
+public class TesingGit {
 
 	public static void main(String[] args) {
-WebDriver driver=new ChromeDriver();
+		// TODO Auto-generated method stub
 
 	}
 
